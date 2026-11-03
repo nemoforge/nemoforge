@@ -3,11 +3,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0A66C2,100:58A6FF&text=DINH%20DUC%20LOC&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Website%20Developer%20%E2%80%A2%20Cross-Platform%20Apps%20%E2%80%A2%20Infrastructure%20Engineer&descAlignY=58&descSize=16" />
 
 <p>
-  <a href="https://studyhelp.space">
-    <img src="https://img.shields.io/badge/Website-studyhelp.space-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://seltanova.biz.vn">
+    <img src="https://img.shields.io/badge/Website-seltanova.biz.vn-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:contact@studyhelp.space">
-    <img src="https://img.shields.io/badge/Email-contact@studyhelp.space-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:contact@seltanova.biz.vn">
+    <img src="https://img.shields.io/badge/Email-contact@seltanova.biz.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=nemoforge&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
@@ -23,7 +23,7 @@
 ```yaml
 name: DINH DUC LOC | 丁德祿
 location: Ho Chi Minh, Vietnam, 715000
-company: STUDYHELP IT SERVICES COMPANY LIMITED
+company: SELTANOVA IT SERVICES COMPANY LIMITED
 focus:
   - Website & Web Platform Development
   - Android, iOS & Cross-Platform Apps
@@ -50,7 +50,7 @@ My work focuses on **websites, applications, backend systems, cloud infrastructu
 <a href="https://linkedin.com/in/dinhducloc20">
   <img src="https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2" />
 </a>
-<a href="https://youtube.com/@studyhelpvn2026">
+<a href="https://youtube.com/@SELTANOVAvn2026">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://discord.gg/XCXYxwMgmj">
